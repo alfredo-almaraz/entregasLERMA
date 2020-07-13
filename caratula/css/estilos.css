@@ -1,0 +1,26 @@
+/*este es mi archivo de estilos*/
+body{
+	/*background-color:#603; */
+	background-image:url(../images/ola.jpg);
+	font-family: Tahoma, Geneva, sans-serif;
+} 
+#container{
+	opacity: .9;
+	width: 70%;
+	margin:0 auto;
+	background-color:black;
+
+	
+	color:red;
+	padding: 2.2em;
+	-webkit-border-radius: 15px 15px 15px 15px;
+border-radius: 15px 15px 15px 15px;
+
+}
+	p{
+		background-color:#63C;
+}
+.parrafo {
+	padding: 1em;
+	font-size: 3em;
+}
